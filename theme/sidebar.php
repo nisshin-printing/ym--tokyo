@@ -1,5 +1,5 @@
 <?php
-	$news_pages = array( '5641', '5644', '5648' );
+	$news_pages = array( '5644' );
 ?>
 <aside id="js--sidebar" class="sidebar">
 <button class="sidenav--trigger__wrap">
@@ -15,15 +15,6 @@
 	<ul class="menu vertical" role="menu">
 		<ul class="menu">
 	<?php
-		$categoryies = get_categories( array(
-			'order' => 'DESC',
-			'orderby' => 'count'
-		) );
-		foreach ( $categoryies as $category ) {
-			echo '<li class="menu--item"><a href="', get_category_link( $category->term_id ), '" class="menu--link">', $category->name, '</a></li>';
-		}
-		echo '</ul>';
-		
 		foreach ( $news_pages as $page ) {
 			echo '<li class="menu--item"><a href="', get_page_link( $page ), '" class="menu--link">', get_the_title( $page ), '</a></li>';
 		}

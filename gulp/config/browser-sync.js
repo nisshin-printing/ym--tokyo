@@ -5,7 +5,7 @@
  *
  */
 module.exports = {
-    proxy: "satellite.law-yamashita.local",
+    proxy: "shib.law-yamashita.local",
     logSnippet: true,
     ghostMode: true,
     open: "local"

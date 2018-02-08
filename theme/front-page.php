@@ -6,16 +6,11 @@
 	get_header();
 ?>
 <main>
-	<?php get_template_part( './elements/fp-topheader' ); ?>
-
-
-
-	<?php get_template_part( './elements/fp-welcome-mess' ); ?>
-
-
-
-	<?php get_template_part( 'elements/cta--kigyo-regal' ); ?>
-
+	<?php
+		get_template_part( './elements/fp-shibheader' );
+		get_template_part( './elements/fp-welcome-mess' );
+		get_template_part( 'elements/cta--jiko-lp' );
+	?>
 
 
 	<div class="row">
@@ -23,11 +18,11 @@
 		<div class="sidenav--overlay js--sidenav--button"></div>
 		<div class="column small-12 large-8 contents --mt0 --pt0">
 			<section class="contents--section contents--section__service">
-				<h2 id="front--service">取扱業務ピックアップ</h2>
+				<h2 id="front--service">取扱範囲ピックアップ</h2>
 				<div class="row small-up-1 medium-up-2">
 					
 					<?php
-						include( get_template_directory() . '/config/service--draft.php' );
+						include( get_template_directory() . '/config/service.php' );
 						for ( $i = 0; $i < 4; $i++ ) :
 					?>
 					<article class="article--category column">
@@ -75,72 +70,9 @@
 					?>
 
 				</div>
-				<p class="text-center contents--section_button" style="margin-top: 2rem"><a href="<?php echo get_page_link( '5481' ); ?>" class="button large"><?php NID_SVG::icon( 'list', array() ); ?>取扱業務の一覧を見る</a></p>
+				<p class="text-center contents--section_button" style="margin-top: 2rem"><a href="<?php echo get_page_link( '6226' ); ?>" class="button large"><?php NID_SVG::icon( 'list', array() ); ?>取扱業務の一覧を見る</a></p>
 			</section>
 
-<!--
-
-			<div class="contents--section">
-				<h2><a href="">Q&A<span class="badge">></span></a></h2>
-				<div class="row">
-					<dl class="qa column small-12 medium-6">
-						<dt class="qa--icon"><a href="">これはテストですか？</a></dt>
-						<dd class="qa--icon">これはテストです。<p class="qa--more"><a href=""><span>></span>詳しく見る</a></p></dd>
-					</dl>
-					<dl class="qa column small-12 medium-6">
-						<dt class="qa--icon"><a href="">これは長文質問のテストですか？これは長文質問のテストですか？</a></dt>
-						<dd class="qa--icon">これは長文質問のテストです。<p class="qa--more"><a href=""><span>></span>詳しく見る</a></p></dd>
-					</dl>
-					<dl class="qa column small-12 medium-6">
-						<dt class="qa--icon"><a href="">これは長文質問のテストですか？これは長文質問のテストですか？これは長文質問のテストですか？これは長文質問のテストですか？</a></dt>
-						<dd class="qa--icon">これは長文質問のテストです。これは長文質問のテストです。これは長文質問のテストです。<p class="qa--more"><a href=""><span>></span>詳しく見る</a></p></dd>
-					</dl>
-					<dl class="qa column small-12 medium-6">
-						<dt class="qa--icon"><a href="">これはテストですか？</a></dt>
-						<dd class="qa--icon">これはテストです。<p class="qa--more"><a href=""><span>></span>詳しく見る</a></p></dd>
-					</dl>
-				</div>
-			</div>
-
-			<section class="contents--section">
-				<h2>○○サイトに初めて訪れた方へオススメしたい記事</h2>
-				<div class="row small-up-1 medium-up-2">
-					<article class="article--loop column">
-						<figure class="article--loop_thumbnail text-center">
-							<a href="" rel="nofollow"><img src="//placehold.jp/400x250.png" alt=""></a>
-						</figure>
-						<header class="article--loop_header">
-							<h3 class="article--loop_title"><a href="">これはテストです。</a></h3>
-						</header>
-					</article>
-					<article class="article--loop column">
-						<figure class="article--loop_thumbnail text-center">
-							<a href="" rel="nofollow"><img src="//placehold.jp/400x250.png" alt=""></a>
-						</figure>
-						<header class="article--loop_header">
-							<h3 class="article--loop_title"><a href="">これは長文タイトルのテストです。これは長文タイトルのテストです。</a></h3>
-						</header>
-					</article>
-					<article class="article--loop column">
-						<figure class="article--loop_thumbnail text-center">
-							<a href="" rel="nofollow"><img src="//placehold.jp/400x250.png" alt=""></a>
-						</figure>
-						<header class="article--loop_header">
-							<h3 class="article--loop_title"><a href="">これは長文タイトルのテストです。これは長文タイトルのテストです。これは長文タイトルのテストです。これは長文タイトルのテストです。</a></h3>
-						</header>
-					</article>
-					<article class="article--loop column">
-						<figure class="article--loop_thumbnail text-center">
-							<a href="" rel="nofollow"><img src="//placehold.jp/400x250.png" alt=""></a>
-						</figure>
-						<header class="article--loop_header">
-							<h3 class="article--loop_title"><a href="">これはテストです。</a></h3>
-						</header>
-					</article>
-				</div>
-			</section>
-
--->
 
 			<?php
 				$args = array(
@@ -170,7 +102,7 @@
 
 
 			<div class="contents--section">
-				<h2><a href="https://www.law-yamashita.com/topics" target="_blank">事務所の最新情報<span class="badge">　></span></a></h2>
+				<h2 id="front--news"><a href="https://www.law-yamashita.com/topics" target="_blank">事務所の最新情報<span class="badge">　></span></a></h2>
 				<?php
 					$url = 'https://www.law-yamashita.com/feed';
 					$url = sprintf( esc_html( "%s" ), $url );
@@ -210,5 +142,7 @@ EOM;
 			
 		</div>
 	</div>
+	<?php get_template_part( './elements/fp-special-sites' ); ?>
 </main>
+
 <?php get_footer(); ?>

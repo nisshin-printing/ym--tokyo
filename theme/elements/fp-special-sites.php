@@ -7,7 +7,7 @@
 		<?php
 			foreach ( $sites as $site ) :
 				if ( 'another' !== $site['name'] ) {
-					$img = get_template_directory_uri() . '/assets/img/sites/' . $site['name'] . '.png';
+					$img = '//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/sites/' . $site['name'] . '.png';
 					$url = ( $site['ssl'] ) ? 'https://hiroshima-' : 'http://www.hiroshima-';
 					$url = $url . $site['name'] . '.com';
 					$alt = ( $site['alt'] ) ? $site['alt'] : '弁護士法人山下江法律事務所の専門サイト';

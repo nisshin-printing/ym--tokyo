@@ -23,21 +23,15 @@
 	<div class="message message--secondary">
 		<div class="row align-middle">
 			<div class="column small-12 medium-6 large-4 message--image">
-				<picture>
-					<source media="(max-width: 639px)" srcset="https://i1.wp.com/www.law-yamashita.com/wp-content/uploads/2015/11/kasahara-1.jpg?w=210&ssl=1" sizes="210px">
-					<img class="thumbnail" src="https://www.law-yamashita.com/wp-content/uploads/2018/01/50565c917104fece70613feb2ca6b380-e1515485937107.jpg" width="250" height="375" alt="副代表・広島本部長・弁護士の田中伸">
-				</picture>
+				<img class="thumbnail" src="https://i1.wp.com/www.law-yamashita.com/wp-content/uploads/2016/12/hirota-mayumi.jpg?w=2000&ssl=1" width="250" height="375" alt="岩国支部長・弁護士の廣田麻由美">
 			</div>
 			<div class="column small-12 medium-6 large-8">
-				<h2 class="title--border-bottom">チームリーダーあいさつ</h2>
+				<h2 class="title--border-bottom">岩国支部長のご挨拶</h2>
 				<div class="message--paragraph">
-					<p>山下江法律事務所には「企業チーム」があります。</p>
-					<p>企業の皆様、「弁護士に相談するとできないことばかり増える・・・。」と思っていませんか？確かに、そうかもしれません。可能な限り、企業の皆様のご要望を実現可能な方法を考えますが、それでも、できないことを増やしてしまうことはあります。</p>
-					<p>しかし、弁護士に相談せず法的問題に気付かないまま企業活動を進めてしまえば、どうなるでしょうか？法的問題に気付いたときには手遅れで、莫大な損害を避けられないかもしれません。</p>
-					<p>「これまで法的問題は起こっていないから大丈夫♪」と思っていませんか？昨日まで大丈夫だったとしても、今日どうなるかは分かりません。</p>
-					<p>「でも、日程調整して法律事務所に行って弁護士に相談するのは時間がかかる・・・。」と思っていませんか？顧問契約を結べば、ちょっとしたことでも電話やメールで弁護士に相談可能です。</p>
-					<p>山下江法律事務所では、弁護士４名、秘書５名で企業チームを構成し、スキルアップに励み、予防法務、債権回収、労働問題等、幅広く企業法務に取り組んでいます。是非、ご相談下さい。</p>
-					<p class="text-right"><a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/553" data-toggle="js--ajax-modal">笠原輔について　></a></p>
+					<p>この度、山下江法律事務所の弁護士法人山下江法律事務所設立及び同法人岩国事務所開設に伴い、岩国支部長に就任することになりました。</p>
+					<p>今まで、当事務所に相談したかったけれども広島まで出かけられないという岩国地域居住の方にとっては利便性が高まるものと思います。岩国地域居住の方が抱える悩みに寄り添い、適切な解決を導いていきたいと思います。</p>
+					<p>若輩者ではございますが、みなさまのご期待に応えられるよう日々努力していきますので、今後ともご指導ご鞭撻のほどよろしくお願いします。</p>
+					<p class="button-group"><a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4092" data-toggle="js--ajax-modal">廣田麻由美について　></a><a href="https://www.facebook.com/lawyerhirotamayumi/" class="button bg-facebook" target="_blank">岩国支部のFacebook</a></p>
 				</div>
 			</div>
 		</div>

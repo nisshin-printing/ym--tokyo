@@ -44,15 +44,15 @@
 			</div>
 		</div>
 		<div class="column small-12 medium-6 copy--top text-center">
-			<h1 class="copy--title">探しているのは、<br>「頼れる」<ruby><rb>弁護士</rb><rp><rt>みかた</rt></rp></ruby>。</h1>
+			<h1 class="copy--title">山下江法律事務所<br>岩国支部</h1>
 			<div class="copy--desc">
-				<p>相談件数12,000件以上。<small>※</small><br>選ぶなら広島最大級。</p>
-			<small>※　平成27年12月時点</small>
+				<p>相談件数17,000件以上。<small>※</small><br>選ぶなら中四国最大級。</p>
+			<small>※　平成29年12月時点</small>
 			</div>
 			<p class="topheader--button"><a href="tel:0120783409" title="電話する" class="button hollow expanded"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/header-tel.jpg" alt=""></a></p>
 			<p class="topheader--button"><a href="https://www.law-yamashita.com/contact" class="button hollow expanded" title="メールで相談予約" target="_blank"><?php NID_SVG::icon( 'mail', array( 'class' => 'button--icon' ), 'メール' ); ?>メールで相談予約</a></p>
-			<p class="topheader--button button-group expanded stacked-for-small"><a href="#front--service" class="button hollow expanded" title="取扱業務">取扱業務</a><a href="#front--komon" class="button hollow expanded" title="顧問弁護士契約">顧問弁護士契約</a></p>
-			<p class="topheader--button"><a href="<?php echo home_url(), '/seminar'; ?>" class="button hollow expanded" title="セミナーのご案内"><?php NID_SVG::icon( 'megaphone', array( 'class' => 'button--icon' ), 'セミナー案内' ); ?>セミナーのご案内</a></p>
+			<p class="topheader--button button-group expanded stacked-for-small"><a href="<?php echo get_page_link( '6226' ); ?>" class="button hollow expanded" title="取扱範囲">取扱範囲</a><a href="#front--news" class="button hollow expanded" title="お知らせ">お知らせ</a></p>
+			<p class="topheader--button"><a href="https://www.law-yamashita.com" target="_blank" class="button hollow expanded" title="メインサイトを見る"><?php NID_SVG::icon( 'home', array( 'class' => 'button--icon' ), 'メインサイトを見る' ); ?>メインサイトを見る</a></p>
 		</div>
 	</div>
 </section>
