@@ -77,7 +77,7 @@ if ( is_archive() || is_single() || is_home() ) {
 					} else if ( is_page( 'members' ) ) {
 						get_template_part( './templates/page--members' );
 
-					} else if ( is_page( 'access' ) ) {
+					} else if ( is_page( 'access-hiroshima' ) ) {
 						$page_id = '281';
 						include locate_template( './templates/page.php' );
 
