@@ -9,7 +9,7 @@
 	<?php
 		get_template_part( './elements/fp-shibheader' );
 		get_template_part( './elements/fp-welcome-mess' );
-		get_template_part( 'elements/cta--jiko-lp' );
+		// get_template_part( 'elements/cta--jiko-lp' );
 	?>
 
 
