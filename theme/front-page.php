@@ -54,7 +54,7 @@
 						<img class="thumbnail" src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/lp/e-hiroshima/5.jpg" alt="徒歩１分圏内に岩国市役所があり、そちらの駐車場をご利用できます。">
 					</div>
 					<div class="column small-12 medium-6">
-						<p>徒歩1分の場所に岩国市役所がございます。そちらの駐車場をご利用ください。</p>
+						<p>徒歩1分の場所に岩国市役所がございます。そちらの駐車場をご利用ください。（一般の利用可）</p>
 					</div>
 				</div>
 			</section>
