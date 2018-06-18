@@ -44,9 +44,9 @@
 			</div>
 		</div>
 		<div class="column small-12 medium-6 copy--top text-center">
-			<h1 class="copy--title">山下江法律事務所<br>岩国支部</h1>
+			<h1 class="copy--title">山下江法律事務所<br>呉支部</h1>
 			<div class="copy--desc">
-				<p>相談件数17,000件以上。<small>※</small><br>選ぶなら中四国最大級。</p>
+				<p>相談件数17,000件以上。<small>※</small><br>選ぶなら広島最大級。</p>
 			<small>※　平成29年12月時点</small>
 			</div>
 			<p class="topheader--button"><a href="tel:0120783409" title="電話する" class="button hollow expanded"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/header-tel.jpg" alt=""></a></p>

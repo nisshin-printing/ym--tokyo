@@ -20,8 +20,8 @@
  * }
  */
 module.exports = {
-    name: 'ym--iwakuni',
-    prettyName: 'ym--iwakuni',
+    name: 'ym--kure',
+    prettyName: 'ym--kure',
     themeURI: 'http://shib.law-yamashita.local/',
     description: '支部サイト用WordPressテーマ統一デザイン案',
     version: '0.1.0',
