@@ -7,11 +7,11 @@
 	);
 	$slider = new WP_Query( $slides_args );
 ?>
-<section class="fp--topheader">
-	<div class="row align-middle">
-		<div class="column small-12 medium-6 slider--wrapper">
-			<div id="js--top-slider" class="slick-slider">
-			<?php
+	<section class="fp--topheader">
+		<div class="row align-middle">
+			<div class="column small-12 medium-6 slider--wrapper">
+				<div id="js--top-slider" class="slick-slider">
+					<?php
 				if ( $slider->have_posts() ) :
 					while ( $slider->have_posts() ) :
 						$slider->the_post();
@@ -23,36 +23,58 @@
 							$link_src = get_post_meta( $id, 'slider_link', true );
 							$link_title = ( get_post_meta( $id, 'slider_link_title', true ) ) ? get_post_meta( $id, 'slider_link_title', true ) : get_the_title();
 				?>
-				<article class="slick-slide slide--item card">
-					<div class="card--img"><img src="<?php echo $img; ?>" alt="<?php the_title(); ?>" width="<?php echo $width; ?>" height="<?php echo $height; ?>"></div>
-					<div class="card--content">
-						<p class="card--title"><?php the_title(); ?></p>
-						<p><?php
+						<article class="slick-slide slide--item card">
+							<div class="card--img">
+								<img src="<?php echo $img; ?>" alt="<?php the_title(); ?>" width="<?php echo $width; ?>" height="<?php echo $height; ?>">
+							</div>
+							<div class="card--content">
+								<p class="card--title">
+									<?php the_title(); ?>
+								</p>
+								<p>
+									<?php
 							if ( '' !== $post->post_content ) {
 								the_content();
 							} else {
 								echo "<a href=\"$link_src\" title=\"$link_title\" class=\"button\">$link_title</a>";
 							}
-						?></p>
-					</div>
-				</article>
-				<?php
+						?>
+								</p>
+							</div>
+						</article>
+						<?php
 						endwhile;
 					endif;
 				?>
-				<div id="slide--button"></div>
+						<div id="slide--button"></div>
+				</div>
+			</div>
+			<div class="column small-12 medium-6 copy--top text-center">
+				<h1 class="copy--title">山下江法律事務所
+					<br>呉支部</h1>
+				<div class="copy--desc">
+					<p>相談件数17,000件以上。
+						<small>※</small>
+						<br>選ぶなら広島最大級。</p>
+					<small>※　平成29年12月時点（事務所総数）</small>
+				</div>
+				<p class="topheader--button">
+					<a href="tel:0120783409" title="電話する" class="button hollow expanded">
+						<img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/header-tel.jpg" alt="">
+					</a>
+				</p>
+				<p class="topheader--button">
+					<a href="https://www.law-yamashita.com/contact" class="button hollow expanded" title="メールで相談予約" target="_blank">
+						<?php NID_SVG::icon( 'mail', array( 'class' => 'button--icon' ), 'メール' ); ?>メールで相談予約</a>
+				</p>
+				<p class="topheader--button button-group expanded stacked-for-small">
+					<a href="<?php echo get_page_link( '6226' ); ?>" class="button hollow expanded" title="取扱範囲">取扱範囲</a>
+					<a href="#front--news" class="button hollow expanded" title="お知らせ">お知らせ</a>
+				</p>
+				<p class="topheader--button">
+					<a href="https://www.law-yamashita.com" target="_blank" class="button hollow expanded" title="メインサイトを見る">
+						<?php NID_SVG::icon( 'home', array( 'class' => 'button--icon' ), 'メインサイトを見る' ); ?>メインサイトを見る</a>
+				</p>
 			</div>
 		</div>
-		<div class="column small-12 medium-6 copy--top text-center">
-			<h1 class="copy--title">山下江法律事務所<br>呉支部</h1>
-			<div class="copy--desc">
-				<p>相談件数17,000件以上。<small>※</small><br>選ぶなら広島最大級。</p>
-			<small>※　平成29年12月時点</small>
-			</div>
-			<p class="topheader--button"><a href="tel:0120783409" title="電話する" class="button hollow expanded"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/header-tel.jpg" alt=""></a></p>
-			<p class="topheader--button"><a href="https://www.law-yamashita.com/contact" class="button hollow expanded" title="メールで相談予約" target="_blank"><?php NID_SVG::icon( 'mail', array( 'class' => 'button--icon' ), 'メール' ); ?>メールで相談予約</a></p>
-			<p class="topheader--button button-group expanded stacked-for-small"><a href="<?php echo get_page_link( '6226' ); ?>" class="button hollow expanded" title="取扱範囲">取扱範囲</a><a href="#front--news" class="button hollow expanded" title="お知らせ">お知らせ</a></p>
-			<p class="topheader--button"><a href="https://www.law-yamashita.com" target="_blank" class="button hollow expanded" title="メインサイトを見る"><?php NID_SVG::icon( 'home', array( 'class' => 'button--icon' ), 'メインサイトを見る' ); ?>メインサイトを見る</a></p>
-		</div>
-	</div>
-</section>
+	</section>
