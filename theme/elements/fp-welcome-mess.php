@@ -39,8 +39,7 @@
 					<p>みなさまのご期待に応えられるよう日々努力していきますので、今後ともご指導ご鞭撻のほどよろしくお願いします。</p>
 					<p class="button-group">
 						<a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/2906" data-toggle="js--ajax-modal">宮部明典について　></a>
-						<a href="https://www.facebook.com/lawyermiyabeakinori/" class="button bg-facebook
-				" target="_blank">呉支部のFacebook</a>
+						<a href="https://www.facebook.com/lawyermiyabeakinori/" class="button bg-facebook" target="_blank">呉支部のFacebook</a>
 					</p>
 				</div>
 			</div>
