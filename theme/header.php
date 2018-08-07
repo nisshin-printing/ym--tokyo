@@ -54,7 +54,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</button>
 		<div class="column small-10 large-6">
 			<p class="top-bar--title"><a href="<?php echo home_url(); ?>"><img src="//www.law-yamashita.com/wp-content/uploads/2016/04/title-logo-1.png" alt="広島最大級の弁護士事務所、山下江法律事務所のロゴ"></a></p>
-			<p class="top-bar--desc">呉支部</p>
+			<p class="top-bar--desc">東京オフィス</p>
 		</div>
 		<div class="top-bar--button column large-6 show-for-large">
 			<p class="free-call"><a href="tel:0120783409"><?php NID_SVG::icon( 'phone', array( 'class' => 'free-call--icon', '電話する' ) ); ?>0120-7834-09</a></p>

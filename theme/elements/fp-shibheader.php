@@ -51,7 +51,7 @@
 			</div>
 			<div class="column small-12 medium-6 copy--top text-center">
 				<h1 class="copy--title">山下江法律事務所
-					<br>呉支部</h1>
+					<br>東京オフィス</h1>
 				<div class="copy--desc">
 					<p>相談件数17,000件以上。
 						<small>※</small>
