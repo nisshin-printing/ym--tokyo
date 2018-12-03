@@ -52,12 +52,12 @@
 
 
 			<section class="contents--section contents--section__images">
-				<h2 id="access">呉支部へのアクセス</h2>
+				<h2 id="access">東京虎ノ門オフィスへのアクセス</h2>
 				<div class="row">
 					<div class="column">
-						<p class="text-center"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/access/map--kure.png" alt="山下江法律事務所呉支部までのアクセス方法"></p>
-						<p class="text-center"><a class="button link-external" href="https://goo.gl/maps/tH6MMvP8YtQ2" title="Googleマップで見る" target="_blank" rel="nofollow">Googleマップで見る</a>　<a href="https://www.law-yamashita.com/downloads/access/print--kure.pdf" class="button">印刷用PDF</a></p>
-						<p>〒737-0051　広島県呉市中央２丁目５－２ NSビル７０３<br>TEL： 0823-25-0077　FAX： 0823-25-0081<br>営業時間：　9：00～18：00</p>
+						<p class="text-center"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/access/map--toranomon.png" alt="山下江法律事務所東京虎ノ門オフィスまでのアクセス方法"></p>
+						<p class="text-center"><a class="button link-external" href="https://goo.gl/maps/91boNSyxVZm" title="Googleマップで見る" target="_blank" rel="nofollow">Googleマップで見る</a>　<a href="https://www.law-yamashita.com/wp-content/themes/ym-home/assets/img/access/map--toranomon.pdf" class="button">印刷用PDF</a></p>
+						<p>〒105-0001　東京都港区虎ノ門一丁目5-8 オフィス虎ノ門１ビル803号<br>TEL： 03-6632-5355　FAX： 03-6632-5356<br>営業時間：　9：00～18：00</p>
 					</div>
 				</div>
 			</section>
@@ -136,7 +136,7 @@
 					while ( $news->have_posts() ) : $news->the_post();
 				?>
 				<dl>
-					<dt><span class="label secondary"><?php the_modified_date( 'Y-m-d' ); ?></span>　<?php the_category( '　' ); ?></dt>
+					<dt><span class="label secondary"><?php echo get_the_date( 'Y-m-d' ); ?></span>　<?php the_category( '　' ); ?></dt>
 					<dd><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></dd>
 				</dl>
 				<?php
