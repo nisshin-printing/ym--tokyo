@@ -37,7 +37,7 @@
 					<p>　東京から広島のみならず全国へ向けて，最善のリーガルサービスを提供できるよう，より一層精進して参ります。ご指導ご鞭撻のほどお願い申し上げます。</p>
 					<p class="button-group">
 						<a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4090" data-toggle="js--ajax-modal">岡篤志について　></a>
-						<a href="https://www.facebook.com/lawyermiyabeakinori/" class="button bg-facebook" target="_blank">東京虎ノ門オフィスのFacebook</a>
+						<a href="https://www.facebook.com/lawyerokaatsushi/" class="button bg-facebook" target="_blank">東京虎ノ門オフィスのFacebook</a>
 					</p>
 				</div>
 			</div>
