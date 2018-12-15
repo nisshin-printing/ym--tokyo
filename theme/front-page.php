@@ -63,6 +63,73 @@
 			</section>
 
 
+			<section class="contents--section contents--section__sozoku">
+				<div class="contents--section contents--section__pickup">
+					<div class="row text-center">
+						<div class="pickup--background column small-12 medium-6">
+							<h3><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/TtlSDTop2_1.jpg" alt="相続の基礎知識"></h3>
+							<ul class="pickup--list text-left">
+								<li><a href="<?php echo get_page_link( '6309' ); ?>"><?php echo get_the_title( '6309' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6311' ); ?>"><?php echo get_the_title( '6311' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6313' ); ?>"><?php echo get_the_title( '6313' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6315' ); ?>"><?php echo get_the_title( '6315' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6317' ); ?>"><?php echo get_the_title( '6317' ); ?></a></li>
+							</ul>
+						</div>
+						<div class="pickup--background column small-12 medium-6">
+							<h3><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/TtlSDTop2_2.jpg" alt="遺産分割協議"></h3>
+							<ul class="pickup--list text-left">
+								<li><a href="<?php echo get_page_link( '6362' ); ?>"><?php echo get_the_title( '6362' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6368' ); ?>"><?php echo get_the_title( '6368' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6317' ); ?>"><?php echo get_the_title( '6317' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6315' ); ?>"><?php echo get_the_title( '6315' ); ?></a></li>
+							</ul>
+						</div>
+						<div class="pickup--background column small-12 medium-6">
+							<h3><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/TtlSDTop2_3.jpg" alt="遺留分・寄与分"></h3>
+							<ul class="pickup--list text-left">
+								<li><a href="<?php echo get_page_link( '6372' ); ?>"><?php echo get_the_title( '6372' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6376' ); ?>"><?php echo get_the_title( '6376' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6374' ); ?>"><?php echo get_the_title( '6374' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6378' ); ?>"><?php echo get_the_title( '6378' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6331' ); ?>"><?php echo get_the_title( '6331' ); ?></a></li>
+							</ul>
+						</div>
+						<div class="pickup--background column small-12 medium-6">
+							<h3><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/TtlSDTop2_4.jpg" alt="遺言書"></h3>
+							<ul class="pickup--list text-left">
+								<li><a href="<?php echo get_page_link( '6380' ); ?>"><?php echo get_the_title( '6380' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6387' ); ?>"><?php echo get_the_title( '6387' ); ?></a></li>
+								<li><a href="<?php echo get_page_link( '6385' ); ?>"><?php echo get_the_title( '6385' ); ?></a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="column small-4 text-center"><a href="<?php echo get_page_link( '6070' ); ?>"><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/ImgTop2.jpg';?>" alt="<?php echo get_the_title( '6070' ); ?>"></a></div>
+						<div class="column small-4 text-center"><a href="<?php echo get_page_link( '6256' ); ?>"><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/ImgTop3.jpg';?>" alt="<?php echo get_the_title( '6256' ); ?>"></a></div>
+						<div class="column small-4 text-center"><a href="<?php echo get_page_link( '5492' ); ?>"><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/ImgTop4.jpg';?>" alt="<?php echo get_the_title( '5492' ); ?>"></a></div>
+					</div>
+				</div>
+
+				<p class="text-center contents--section_button" style="margin-top: 2rem"><a href="<?php echo get_page_link( '6295' ); ?>" class="button large"><?php NID_SVG::icon( 'list', array() ); ?>相続の基礎知識の一覧ページ</a></p>
+
+
+				<div class="contents--section contents--section__point">
+					<h2>山下江法律事務所の相続の３つのポイント</h2>
+					<h3>メリット1 相続手続の専門家が直接お話をお伺いします。</h3>
+					<p>当事務所では、相続手続きのご相談において、専門的な知識を備えたNPO法人相続アドバイザー協議会認定の相続アドバイザー・上級アドバイザーが承ります。</p>
+					<h3>メリット2  相続手続から、相続争いまで、すべてに対応できます。</h3>
+					<p>「争 いはないけど、複雑な相続手続をどう進めて良いか分からない」「自分がしなければならない手続きがどれか分からない」という相談から、「親族ともめてし まったので解決したい」という相談まで、相続に関することなら何でも対応することができます。所内には弁護士の他、相続アドバイザー・上級アドバイザーが 在籍しており、税理士、司法書士、行政書士などとも連携をしていますので、速やかに相続手続きも行うことができます。</p>
+					<h3>メリット3 広島最大級の法律事務所</h3>
+					<p>当事務所は士業事務所に良く見られる個人事務所ではなく、所員総勢38名の広島最大級の法律事務所です。総合力と機動力は地域ナンバーワンと自負しております。実績多数の当法律事務所に、是非ご相談ください。</p>
+					<h3>相続アドバイザー・上級アドバイザーによる相談も、無料で承っています</h3>
+					<p>・弁護士に相談するのは敷居が高い<br>・ちょっとだけ教えてもらいたいことがある<br>と思われる方は、相続アドバイザーにお気軽にお電話ください。</p>
+
+					<p class="text-center"><a href="https://www.law-yamashita.com/reserve" target="_blank"><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/banner_01.png" alt="東京の相続・遺言相談は虎ノ門駅すぐの山下江法律事務所へ"></a></p>
+				</div>
+			</section>
+
+
 			<section class="contents--section contents--section__service">
 				<h2 id="front--service">取扱範囲ピックアップ</h2>
 				<div class="row small-up-1 medium-up-2">
