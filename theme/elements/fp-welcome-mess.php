@@ -14,7 +14,7 @@
 				<div class="message--paragraph">
 					<p>東京及び近郊にお住まいのみなさま</p>
 					<p>山下江法律事務所は，２０１９年１月，東京虎ノ門オフィスを開設しました。<br>
-					支部長には，修道大学法学部・九州大学ロースクール出身の<a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4090" data-toggle="js--ajax-modal">岡篤志弁護士</a>が就任しております。岡は何にでも意欲的に取り組むガッツのある弁護士です。みなさまの期待に添えるものと確信しています。なお，山下江も月半分程度は同オフィスに出勤予定です。</p>
+					支部長には，修道大学法学部・九州大学ロースクール出身の<a class="js--modal-button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4090" data-toggle="js--ajax-modal">岡篤志弁護士</a>が就任しております。岡は何にでも意欲的に取り組むガッツのある弁護士です。みなさまの期待に添えるものと確信しています。なお，山下江も月半分程度は同オフィスに出勤予定です。</p>
 					<p>東京周辺のお住まいの方のお役にたつとともに，東京と広島との橋渡しもできると思っています。本支店が広島・東京にある会社の場合や，相続の係争物件が広島にある場合など，とても役にたつものと思います。</p>
 					<p>山下江法律事務所は創立以来「親切な相談」「適切な解決」をモットーに業務を行ってきましたが，東京虎ノ門オフィスにおいても堅持していくつもりです。<br>お困りごとやお悩みごとがありましたら，お気軽に東京虎ノ門オフィスまでご連絡ください。</p>
 					<p class="text-right">
@@ -35,9 +35,8 @@
 				<div class="message--paragraph">
 					<p>この度，弁護士法人山下江法律事務所東京虎ノ門オフィス開設に伴い，東京支部長に就任することになりました。<br>広島に縁があるという方にとって，当事務所は，広島と東京を結ぶ架け橋になることができると思っております。もちろん広島にゆかりのない方であっても，お気軽にご相談いただければと思います。</p>
 					<p>　東京から広島のみならず全国へ向けて，最善のリーガルサービスを提供できるよう，より一層精進して参ります。ご指導ご鞭撻のほどお願い申し上げます。</p>
-					<p class="button-group">
+					<p class="text-right">
 						<a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4090" data-toggle="js--ajax-modal">岡篤志について　></a>
-						<a href="https://www.facebook.com/lawyerokaatsushi/" class="button bg-facebook" target="_blank">東京虎ノ門オフィスのFacebook</a>
 					</p>
 				</div>
 			</div>
