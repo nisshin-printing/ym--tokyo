@@ -315,7 +315,7 @@ EOT;
 	<div class="row">
 		<div class="column">
 			<h3>お電話で予約する</h3>
-			<p class="text-center"><a title="ご予約専用ダイヤル" href="tel:0120783409"><img class="alignnone size-full wp-image-1131" src="//www.law-yamashita.com/wp-content/uploads/2015/07/header-tel.jpg" alt="法律相談ご予約専用ダイヤル" width="344" height="44" /></a></p>
+			<p class="text-center"><a title="ご予約専用ダイヤル" href="tel:0120783409"><img class="alignnone size-full wp-image-1131" src="//www.law-yamashita.com/wp-content/uploads/2015/07/header-tel.png" alt="法律相談ご予約専用ダイヤル" width="344" height="44" /></a></p>
 		</div>
 		<div class="column">
 			<h3>メールで予約する</h3>
@@ -329,7 +329,7 @@ EOT;
 	<div class="row">
 		<div class="column">
 			<h3>お電話で予約する</h3>
-			<p class="text-center"><a title="ご予約専用ダイヤル" href="tel:0120783409"><img class="alignnone size-full wp-image-1131" src="//www.law-yamashita.com/wp-content/uploads/2015/07/header-tel.jpg" alt="法律相談ご予約専用ダイヤル" width="344" height="44" /></a></p>
+			<p class="text-center"><a title="ご予約専用ダイヤル" href="tel:0120783409"><img class="alignnone size-full wp-image-1131" src="//www.law-yamashita.com/wp-content/uploads/2015/07/header-tel.png" alt="法律相談ご予約専用ダイヤル" width="344" height="44" /></a></p>
 		</div>
 		<div class="column">
 			<h3>メールで予約する</h3>

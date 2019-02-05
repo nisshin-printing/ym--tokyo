@@ -77,6 +77,9 @@ if ( is_archive() || is_single() || is_home() ) {
 					} else if ( is_page( 'succession' ) && 'service' === is_parent_slug() ) {
 						$page_id = '4618';
 						include locate_template( './templates/page.php' );
+					} else if ( is_page( 'seminar' ) && 'service' === is_parent_slug() ) {
+						$page_id = '6761';
+						include locate_template( './templates/page.php' );
 
 
 					/**

@@ -37,6 +37,25 @@
 					<p>　東京から広島のみならず全国へ向けて，最善のリーガルサービスを提供できるよう，より一層精進して参ります。ご指導ご鞭撻のほどお願い申し上げます。</p>
 					<p class="text-right">
 						<a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4090" data-toggle="js--ajax-modal">岡篤志について　></a>
+						<a class="button" href="https://www.youtube.com/embed/fyvHS-dPQt8">動画で見る</a>
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="message message--secondary">
+		<div class="row align-middle">
+			<div class="column small-12 medium-6 large-4 message--image">
+				<img class="thumbnail" src="//i2.wp.com/www.law-yamashita.com/wp-content/uploads/2017/11/4b2ed4f50847d0b4fd3ce94c9122894b.jpg?w=210&ssl=1" width="210" height="210"
+				    alt="東京虎ノ門オフィス常勤の相続アドバイザー黒田文">
+			</div>
+			<div class="column small-12 medium-6 large-8">
+				<h2 class="title--border-bottom">相続アドバイザー/上級アドバイザーからのご挨拶</h2>
+				<div class="message--paragraph">
+					<p>この度、弁護士法人山下江法律事務所東京虎ノ門オフィスの開設に伴い、弁護士秘書・相続アドバイザーとして常駐いたします。</p>
+					<p>広島本部での７年の経験と大阪で２年ほど司法書士法人・税理士法人を母体とする相続手続きを行う会社にて実務に携わった経験を生かし、お力になれる事があると考えております。<br>また所属している<a href="http://souzoku-adv.com/" target="_blank">NPO法人相続アドバイザー協議会</a>および<a href="http://hanamaru-souzoku.com/" target="_blank">一般社団法人はなまる相続</a>のネットワークを駆使し、全国の相続の専門家をご紹介させていただく事も可能でございます。</p>
+					<p>小さな事でも構いませんので、おひとりで悩まずお気軽にお問合せください。</p>
+					<p class="text-right">
+						<a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/5383" data-toggle="js--ajax-modal">黒田文について　></a>
 					</p>
 				</div>
 			</div>

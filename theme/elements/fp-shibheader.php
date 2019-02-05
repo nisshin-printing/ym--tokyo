@@ -52,15 +52,18 @@
 			<div class="column small-12 medium-6 copy--top text-center">
 				<h1 class="copy--title">山下江法律事務所
 					<br>東京虎ノ門オフィス</h1>
-				<div class="copy--desc">
-					<p>相談件数17,000件以上。
+					<div class="copy--desc">
+					<p>相談件数20,000件以上。
 						<small>※</small>
-						<br>選ぶなら広島最大級。</p>
-					<small>※　平成29年12月時点（事務所総数）</small>
+						<br>選ぶなら広島最大級。
+						<br>個人のお客様なら
+						<strong style="background:yellow;color:red">初回相談無料</strong>
+					</p>
+					<small>※　2018年12月末時点（事務所総数）</small>
 				</div>
 				<p class="topheader--button">
 					<a href="tel:0120783409" title="電話する" class="button hollow expanded">
-						<img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/header-tel.jpg" alt="">
+						<img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/header-tel.png" alt="">
 					</a>
 				</p>
 				<p class="topheader--button">

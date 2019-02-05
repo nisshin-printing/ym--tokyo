@@ -23,7 +23,7 @@
 				<div class="row align-middle">
 					<h3 class="column small-12">信頼できるクラウドの活用</h3>
 					<div class="column small-12 medium-6">
-						<img class="thumbnail" src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/lp/kure/6.jpg" alt="山下江法律事務所呉支部はクラウドを活用することで豊富な経験・多数の解決事例を共有し、どこの事務所でも同一のサ―ビスを提供できます。">
+						<img class="thumbnail" src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/lp/kure/6.jpg" alt="山下江法律事務所東京虎ノ門オフィスはクラウドを活用することで豊富な経験・多数の解決事例を共有し、どこの事務所でも同一のサ―ビスを提供できます。">
 					</div>
 					<div class="column small-12 medium-6">
 						<p>広島最大級の弁護士事務所である山下江法律事務所では、その叡智・豊富な経験・多数の解決事例を共有し、常に適切な解決を迅速に行うことが可能です。</p>
@@ -33,16 +33,16 @@
 				<div class="row align-middle">
 					<h3 class="column small-12">プライバシー保護環境</h3>
 					<div class="column small-12 medium-6">
-						<img class="thumbnail" src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/lp/kure/2.jpg" alt="山下江法律事務所呉支部もプライバシーポリシーや行動指針に基づいた「気軽に相談できる場」を創造しました。">
+						<img class="thumbnail" src="<?php echo get_template_directory_uri(), '/assets/img/tk--002.jpg'; ?>" alt="山下江法律事務所東京虎ノ門オフィスもプライバシーポリシーや行動指針に基づいた「気軽に相談できる場」を創造しました。">
 					</div>
 					<div class="column small-12 medium-6">
-						<p>新しくオープンした呉支部でも、山下江法律事務所の<a href="<?php echo get_the_permalink('360'); ?>" class="link-external" title="<?php echo get_the_title('360'); ?>">行動指針</a>や<a href="<?php echo get_the_permalink('493'); ?>" class="link-external" title="<?php echo get_the_title('493'); ?>">プライバシーポリシー</a>に基づいた「気軽に相談できる場」を創造しました。</p>
+						<p>新しくオープンした東京虎ノ門オフィスでも、山下江法律事務所の行動指針やプライバシーポリシーに基づいた「気軽に相談できる場」を創造しました。</p>
 					</div>
 				</div>
 				<div class="row align-middle">
 					<h3 class="column small-12">安心して相談できる空間</h3>
 					<div class="column small-12 medium-6">
-						<img class="thumbnail" src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/lp/kure/3.jpg" alt="山下江法律事務所呉支部では居心地の良い空間を演出しています。">
+						<img class="thumbnail" src="<?php echo get_template_directory_uri(), '/assets/img/tk-004.jpg'; ?>" alt="山下江法律事務所東京虎ノ門オフィスでは居心地の良い空間を演出しています。">
 					</div>
 					<div class="column small-12 medium-6">
 						<p>一時間程度の法律相談でも、知らないことや難しい用語がたくさん出てきて疲れてしまいます。気軽に、安心できる法律相談のために、安心感を与える照明やインテリア家具により、居心地の良い空間を演出しております。</p>
@@ -55,7 +55,7 @@
 				<h2 id="access">東京虎ノ門オフィスへのアクセス</h2>
 				<div class="row">
 					<div class="column">
-						<p class="text-center"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/access/map--toranomon.png" alt="山下江法律事務所東京虎ノ門オフィスまでのアクセス方法"></p>
+						<p class="text-center"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/access/map--toranomon--v3.png" alt="山下江法律事務所東京虎ノ門オフィスまでのアクセス方法"></p>
 						<p class="text-center"><a class="button link-external" href="https://goo.gl/maps/91boNSyxVZm" title="Googleマップで見る" target="_blank" rel="nofollow">Googleマップで見る</a>　<a href="https://www.law-yamashita.com/wp-content/themes/ym-home/assets/img/access/map--toranomon.pdf" class="button">印刷用PDF</a></p>
 						<p>〒105-0001　東京都港区虎ノ門一丁目5-8 オフィス虎ノ門１ビル803号<br>TEL： 03-6632-5355　FAX： 03-6632-5356<br>営業時間：　9：00～18：00</p>
 					</div>
@@ -125,7 +125,7 @@
 					<h3>相続アドバイザー・上級アドバイザーによる相談も、無料で承っています</h3>
 					<p>・弁護士に相談するのは敷居が高い<br>・ちょっとだけ教えてもらいたいことがある<br>と思われる方は、相続アドバイザーにお気軽にお電話ください。</p>
 
-					<p class="text-center"><a href="https://www.law-yamashita.com/reserve" target="_blank"><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/banner_01.png" alt="東京の相続・遺言相談は虎ノ門駅すぐの山下江法律事務所へ"></a></p>
+					<p class="text-center"><a href="https://www.law-yamashita.com/reserve" target="_blank"><img src="//tokyo.law-yamashita.com/wp-content/themes/ym--tokyo/assets/img/banner-01--tokyo.png" alt="東京の相続・遺言相談は虎ノ門駅すぐの山下江法律事務所へ"></a></p>
 				</div>
 			</section>
 
@@ -256,6 +256,7 @@ EOM;
 		</div>
 	</div>
 	<?php get_template_part( './elements/fp-special-sites' ); ?>
+	<?php get_template_part( './elements/fp--access' ); ?>
 </main>
 
 <?php get_footer(); ?>
