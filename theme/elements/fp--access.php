@@ -11,7 +11,7 @@
 				<p class="map--text">虎ノ門駅 徒歩１分</p>
 				<p class="map--tel"><b>予約：</b><a href="tel:0120-7834-09">0120-7834-09</a></p>
 				<p class="map--tel"><b>電話：</b><a href="tel:03-6632-5355">03-6632-5355</a></p>
-				<p class="map--button-group"><a href="https://goo.gl/maps/91boNSyxVZm" class="button hollow" target="_blank">Googleマップ</a><a href="https://tokyo.law-yamashita.com" class="button hollow">サイトを見る</a></p>
+				<p class="map--button-group"><a href="https://goo.gl/maps/jXG3NHSsmGT2" class="button hollow" target="_blank">Googleマップ</a><a href="https://tokyo.law-yamashita.com" class="button hollow">サイトを見る</a></p>
 			</div>
 		</div>
 		<iframe frameborder="0" class="lazyload" data-src="//www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d202.58207639948114!2d139.7509289!3d35.6692888!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b92e9f3cfd7%3A0xae2ad1d7721811f4!2z44CSMTA1LTAwMDEg5p2x5Lqs6YO95riv5Yy66JmO44OO6ZaA77yR5LiB55uu77yV4oiS77yYIOOCquODleOCo-OCueiZjuODjumWgO-8keODk-ODqw!5e0!3m2!1sja!2sjp!4v1548481674131" allowfullscreen style="border:0"></iframe>
