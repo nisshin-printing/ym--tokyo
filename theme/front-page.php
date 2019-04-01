@@ -65,51 +65,6 @@
 
 			<section class="contents--section contents--section__sozoku">
 				<div class="contents--section contents--section__pickup">
-					<p><img class="lazyload" data-src="<?php echo get_template_directory_uri(), '/assets/img/top--reason__title.png'; ?>" alt="山下江法律事務所が相続・遺言で選ばれる５つの理由"></p>
-					<h3>相続法の大改正に対応した<br>広島初の一般向け『相続本』<br>改訂版『相続・遺言のポイント５５』発刊</h3>
-					<div class="row align-middle">
-						<div class="column small-3"><img class="lazyload" alt="山下江法律事務所の弁護士と相続アドバイザーが執筆。相続・遺言のポイント50" data-src="<?php echo get_template_directory_uri(), '/assets/img/sozoku-book--55.png'; ?>"></div>
-						<div class="column small-9">
-							<p>弁護士と相続アドバイザーが執筆した、一般向けの相続解説本を2016年に出版しました。</p>
-							<p>無用なトラブルを避けるためにも「<strong class="underline">一家に一冊相続本を</strong>」との思いで、山下江法律事務所の弁護士17名と相続アドバイザー2名が執筆しました。法律問題・税務問題を豊富なイラストを多用して、わかりやすく解説！</p>
-							<p><img alt="相続本はこんな疑問にお答えします。" class="lazyload" data-src="//tokyo.law-yamashita.com/wp-content/themes/ym--tokyo/assets/img/sozoku-book--55__answer.png"></p>
-							<ul>
-								<li>「改正で遺言が書きやすくなったとは？」</li>
-								<li>「改正により配偶者の保護が強化されたとは？」</li>
-								<li>「相続手続きには期限があるってホント！？」</li>
-								<li>「遺言書が２通あった！どうすればいい？」</li>
-								<li>「相続税、うちに関係あるの？」</li>
-							</ul>
-						</div>
-					</div>
-					<h3>広島最大級の解決実績</h3>
-					<div class="row align-middle">
-						<div class="column small-4"><img alt="広島最大級の解決事例を誇る山下江法律事務所の相談件数" class="lazyload" data-src="<?php echo get_template_directory_uri(), '/assets/img/sodan--2018.png'; ?>"></div>
-						<div class="column small-4"><img alt="広島最大級の解決事例を誇る山下江法律事務所の受任件数" class="lazyload" data-src="<?php echo get_template_directory_uri(), '/assets/img/jyunin--2018.png'; ?>"></div>
-						<div class="column small-4"><img alt="広島最大級の解決事例を誇る山下江法律事務所の満足度" class="lazyload" data-src="<?php echo get_template_directory_uri(), '/assets/img/manzokudo.png'; ?>"></div>
-					</div>
-					<p>地元広島における弁護士事務所で、これだけ多数の相談件数・受任件数・お客様アンケート満足度を有しているのは当事務所のみと思われます。</p>
-					<h3>東京虎ノ門オフィスには、<strong class="underline">相続・遺言問題に精通した弁護士と上級相続アドバイザーが常駐</strong></h3>
-					<p>東京虎ノ門オフィスには、『相続・遺言のポイント５０』執筆者の一人である岡篤志弁護士が支部長として、そして上級相続アドバイザーである黒田文が常駐しているので、すぐにでも相続・遺言問題のご相談が可能です。</p>
-					<div class="row align-middle">
-						<div class="column small-2 large-3"><img class="lazyload" data-src="https://i2.wp.com/www.law-yamashita.com/wp-content/uploads/2016/12/oka-atsushi.jpg?w=300&ssl=1" alt="東京虎ノ門オフィスの支部長 - 岡篤志"></div>
-						<div class="column small-10 large-9">
-							<h4><a class="js--modal-button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4090" data-toggle="js--ajax-modal">岡篤志<span class="title--small title--block">東京支部長 / 弁護士</span></a></h4>
-						</div>
-						<div class="column small-2 large-3"><img class="lazyload" data-src="//i2.wp.com/www.law-yamashita.com/wp-content/uploads/2017/11/4b2ed4f50847d0b4fd3ce94c9122894b.jpg?w=300&ssl=1" alt="東京虎ノ門オフィス常勤の相続アドバイザー黒田文"></div>
-						<div class="column small-10 large-9">
-							<h4><a class="js--modal-button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/5383" data-toggle="js--ajax-modal">黒田文<span class="title--small title--block">上級相続アドバイザー</span></a></h4>
-						</div>
-					</div>
-					<h3>広島近郊の相続・遺言問題を<br>東京にいながら相談可能！</h3>
-					<ul>
-						<li>広島の実家で父親と同居していた兄弟が、遺産分割に応じようとしない。</li>
-						<li>広島にいる親の相続対策を考えておきたい。</li>
-						<li>遺産分割しないまま長年経過してしまった広島にある不動産をどうにかしたい。</li>
-					</ul>
-					<p>広島の法律事務所として東京に支部を持つ事務所は<u>山下江法律事務所が初めて</u>です。<strong class="underline">東京在住の方の相続相談で、対象物件が広島にあるので広島の弁護士に依頼したい</strong>という期待に応えるような法律事務所が広島には今までありませんでした。</p>
-				</div>
-				<div class="contents--section contents--section__pickup">
 					<div class="row text-center">
 						<div class="pickup--background column small-12 medium-6">
 							<h3><img src="//hiroshima-sozoku.com/wp-content/themes/ym--sozoku/assets/img/TtlSDTop2_1.jpg" alt="相続の基礎知識"></h3>
