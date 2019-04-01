@@ -57,7 +57,7 @@
 					<div class="column">
 						<p class="text-center"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/access/map--toranomon.png" alt="山下江法律事務所東京虎ノ門オフィスまでのアクセス方法"></p>
 						<p class="text-center"><a class="button link-external" href="https://goo.gl/maps/91boNSyxVZm" title="Googleマップで見る" target="_blank" rel="nofollow">Googleマップで見る</a>　<a href="https://www.law-yamashita.com/wp-content/themes/ym-home/assets/img/access/map--toranomon.pdf" class="button">印刷用PDF</a></p>
-						<p>〒105-0001　東京都港区虎ノ門一丁目5-8 オフィス虎ノ門１ビル803号<br>TEL： 03-6632-5355　FAX： 03-6632-5356<br>営業時間：　9：00～18：00</p>
+						<p>〒105-0001　東京都港区虎ノ門一丁目5-8 オフィス虎ノ門１ビル803号<br>TEL： 03-6632-5355　FAX： 03-6632-5356<br>営業時間：　平日9：00～18：00</p>
 					</div>
 				</div>
 			</section>
@@ -66,12 +66,20 @@
 			<section class="contents--section contents--section__sozoku">
 				<div class="contents--section contents--section__pickup">
 					<p><img class="lazyload" data-src="<?php echo get_template_directory_uri(), '/assets/img/top--reason__title.png'; ?>" alt="山下江法律事務所が相続・遺言で選ばれる５つの理由"></p>
-					<h3>弊所の弁護士と相続アドバイザーが<br>広島初の一般向け『相続本』を出版</h3>
+					<h3>相続法の大改正に対応した<br>広島初の一般向け『相続本』<br>改訂版『相続・遺言のポイント５５』発刊</h3>
 					<div class="row align-middle">
-						<div class="column small-3"><img class="lazyload" alt="山下江法律事務所の弁護士と相続アドバイザーが執筆。相続・遺言のポイント50" data-src="<?php echo get_template_directory_uri(), '/assets/img/sozoku-book--50.png'; ?>"></div>
+						<div class="column small-3"><img class="lazyload" alt="山下江法律事務所の弁護士と相続アドバイザーが執筆。相続・遺言のポイント50" data-src="<?php echo get_template_directory_uri(), '/assets/img/sozoku-book--55.png'; ?>"></div>
 						<div class="column small-9">
 							<p>弁護士と相続アドバイザーが執筆した、一般向けの相続解説本を2016年に出版しました。</p>
-							<p>無用なトラブルを避けるためにも「<strong class="underline">一家に一冊相続本を</strong>」との思いで、山下江法律事務所の弁護士と相続アドバイザーが執筆しました。法律問題・税務問題についてイラストを多用して、最もわかりやすいものを目指しました。</p>
+							<p>無用なトラブルを避けるためにも「<strong class="underline">一家に一冊相続本を</strong>」との思いで、山下江法律事務所の弁護士17名と相続アドバイザー2名が執筆しました。法律問題・税務問題を豊富なイラストを多用して、わかりやすく解説！</p>
+							<p><img alt="相続本はこんな疑問にお答えします。" class="lazyload" data-src="//tokyo.law-yamashita.com/wp-content/themes/ym--tokyo/assets/img/sozoku-book--55__answer.png"></p>
+							<ul>
+								<li>「改正で遺言が書きやすくなったとは？」</li>
+								<li>「改正により配偶者の保護が強化されたとは？」</li>
+								<li>「相続手続きには期限があるってホント！？」</li>
+								<li>「遺言書が２通あった！どうすればいい？」</li>
+								<li>「相続税、うちに関係あるの？」</li>
+							</ul>
 						</div>
 					</div>
 					<h3>広島最大級の解決実績</h3>
@@ -91,21 +99,6 @@
 						<div class="column small-2 large-3"><img class="lazyload" data-src="//i2.wp.com/www.law-yamashita.com/wp-content/uploads/2017/11/4b2ed4f50847d0b4fd3ce94c9122894b.jpg?w=300&ssl=1" alt="東京虎ノ門オフィス常勤の相続アドバイザー黒田文"></div>
 						<div class="column small-10 large-9">
 							<h4><a class="js--modal-button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/5383" data-toggle="js--ajax-modal">黒田文<span class="title--small title--block">上級相続アドバイザー</span></a></h4>
-						</div>
-					</div>
-					<h3>相続法大改正に対応して<br>改訂版『相続・遺言のポイント５５』を発刊</h3>
-					<div class="row align-middle">
-						<div class="column small-3"><img class="lazyload" alt="山下江法律事務所の弁護士と相続アドバイザーが執筆。相続・遺言のポイント55" data-src="<?php echo get_template_directory_uri(), '/assets/img/sozoku-book--55.png'; ?>"></div>
-						<div class="column small-9">
-							<p>一般向けの相続解説本を2016年に出版しました。<br>この度、相続法大改正に対応して、改訂版『相続・遺言のポイント５５』を発刊します。</p>
-							<p><img alt="相続本はこんな疑問にお答えします。" class="lazyload" data-src="<?php echo get_template_directory_uri(), '/assets/img/sozoku-book--55__answer.png'; ?>"></p>
-							<ul>
-								<li>「改正で遺言が書きやすくなったとは？」</li>
-								<li>「改正により配偶者の保護が強化されたとは？」</li>
-								<li>「相続手続きには期限があるってホント！？」</li>
-								<li>「遺言書が２通あった！どうすればいい？」</li>
-								<li>「相続税、うちに関係あるの？」</li>
-							</ul>
 						</div>
 					</div>
 					<h3>広島近郊の相続・遺言問題を<br>東京にいながら相談可能！</h3>
@@ -171,7 +164,7 @@
 					<h3>メリット1 相続手続の専門家が直接お話をお伺いします。</h3>
 					<p>当事務所では、相続手続きのご相談において、専門的な知識を備えたNPO法人相続アドバイザー協議会認定の相続アドバイザー・上級アドバイザーが承ります。</p>
 					<h3>メリット2  相続手続から、相続争いまで、すべてに対応できます。</h3>
-					<p>「争 いはないけど、複雑な相続手続をどう進めて良いか分からない」「自分がしなければならない手続きがどれか分からない」という相談から、「親族ともめてし まったので解決したい」という相談まで、相続に関することなら何でも対応することができます。所内には弁護士の他、相続アドバイザー・上級アドバイザーが 在籍しており、税理士、司法書士、行政書士などとも連携をしていますので、速やかに相続手続きも行うことができます。</p>
+					<p>「争いはないけど、複雑な相続手続をどう進めて良いか分からない」「自分がしなければならない手続きがどれか分からない」という相談から、「親族ともめてし まったので解決したい」という相談まで、相続に関することなら何でも対応することができます。所内には弁護士の他、相続アドバイザー・上級アドバイザーが 在籍しており、税理士、司法書士、行政書士などとも連携をしていますので、速やかに相続手続きも行うことができます。</p>
 					<h3>メリット3 広島最大級の法律事務所</h3>
 					<p>当事務所は士業事務所に良く見られる個人事務所ではなく、所員総勢38名の広島最大級の法律事務所です。総合力と機動力は地域ナンバーワンと自負しております。実績多数の当法律事務所に、是非ご相談ください。</p>
 					<h3>相続アドバイザー・上級アドバイザーによる相談も、無料で承っています</h3>
